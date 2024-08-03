@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jose Kurian</h1>
 <h3 align="center">A versatile Software Developer and Data Engineer from the UK with a focus on cutting-edge technologies and data-driven solutions.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josekurian1661&label=Profile%20views&color=0e75b6&style=flat" alt="josekurian1661" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josekurian1661" alt="josekurian1661" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 - 🔭 I’m currently working on **Currently leading the implementation of AWS services and big data solutions in the insurance sector, alongside developing backend APIs in Django for efficient data workflows and enhanced system integrations.**
 
 - 🌱 I’m currently learning **I’m currently learning exploring machine learning techniques to complement my data engineering skills and create more integrated and intelligent applications.**
