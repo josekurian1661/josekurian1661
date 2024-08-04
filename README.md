@@ -1,4 +1,5 @@
-<img src="https://github.com/josekurian1661/josekurian1661/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" width="500" alt="logo">
+![logo](https://github.com/josekurian1661/josekurian1661/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Jose Kurian</h1>
 <h3 align="center">A versatile Software Developer and Data Engineer from the UK with a focus on cutting-edge technologies and data-driven solutions.</h3>
 
